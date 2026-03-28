@@ -69,6 +69,14 @@
     "curseForgeHash": 1499942316,
     "modrinthHash": "bec4a47269ec23bca2329742e13409bfde69c5c3"
   },
+  "applied_kjs-1.0.0.jar": {
+    "jarName": "applied_kjs-1.0.0.jar",
+    "modId": "applied_kjs",
+    "name": "Applied KubeJS",
+    "version": "1.0.0",
+    "curseForgeHash": 2351598317,
+    "modrinthHash": "0405e5ff2e3e575f192e944f881222781bfaf747"
+  },
   "appliedenergistics2-19.2.17.jar": {
     "jarName": "appliedenergistics2-19.2.17.jar",
     "modId": "ae2",
@@ -450,6 +458,14 @@
     "curseForgeHash": 1356655026,
     "modrinthHash": "a8b9f1233336ca9fe4702bc2cc5a6f97ad5e3b65"
   },
+  "kubejs-create-neoforge-2101.3.1-build.18.jar": {
+    "jarName": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+    "modId": "kubejs_create",
+    "name": "KubeJS Create",
+    "version": "2101.3.1-build.18",
+    "curseForgeHash": 652828790,
+    "modrinthHash": "d4dce8f82f2d37545f085522a782c1bfda222154"
+  },
   "kubejs-mekanism-neoforge-2101.1.7-build.18.jar": {
     "jarName": "kubejs-mekanism-neoforge-2101.1.7-build.18.jar",
     "modId": "kubejs_mekanism",
@@ -466,6 +482,30 @@
     "curseForgeHash": 605581020,
     "modrinthHash": "75f96b2e4157c0efdbfd9f6271d080fb6921aaf4"
   },
+  "kubejs_curios_neoforge_1.21.1-1.0.4.jar": {
+    "jarName": "kubejs_curios_neoforge_1.21.1-1.0.4.jar",
+    "modId": "kubejs_curios",
+    "name": "KubeJSCurios",
+    "version": "1.0.4",
+    "curseForgeHash": 1727905040,
+    "modrinthHash": "d76c4181e1436bc85f108c7191f1ed7ee374d318"
+  },
+  "kubejscustomevents-1.0.3.jar": {
+    "jarName": "kubejscustomevents-1.0.3.jar",
+    "modId": "kubejscustomevents",
+    "name": "KubeJS CustomEvents",
+    "version": "1.0.3",
+    "curseForgeHash": 387937568,
+    "modrinthHash": "de05b60f6d7d37e6e1c25387b6d629a9f3df6551"
+  },
+  "kubejsdelight-1.21.1-1.1.5.jar": {
+    "jarName": "kubejsdelight-1.21.1-1.1.5.jar",
+    "modId": "kubejsdelight",
+    "name": "KubeJSDelight",
+    "version": "1.1.5",
+    "curseForgeHash": 3960712290,
+    "modrinthHash": "edcc642777852b7f3ab102fe625185c63eaa9ff4"
+  },
   "kubejsoffline-neoforge-5.2.0.jar": {
     "jarName": "kubejsoffline-neoforge-5.2.0.jar",
     "modId": "kubejsoffline",
@@ -473,6 +513,14 @@
     "version": "5.2.0",
     "curseForgeHash": 546576569,
     "modrinthHash": "e3f539101059803b7e96d560d27469dc3aeed7f7"
+  },
+  "kubejstweaks-1.0.6.jar": {
+    "jarName": "kubejstweaks-1.0.6.jar",
+    "modId": "kubejstweaks",
+    "name": "KubeJS Tweaks",
+    "version": "1.0.6",
+    "curseForgeHash": 2672915247,
+    "modrinthHash": "6548ec47aa6b0498c3018cde40d9d0a203b67446"
   },
   "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar": {
     "jarName": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
@@ -586,14 +634,6 @@
     "curseForgeHash": 3098139409,
     "modrinthHash": "1bab6bf9aeb87b38bcaa275f49b50894d5aa2c70"
   },
-  "mekanism_unleashed-0.3.4.jar": {
-    "jarName": "mekanism_unleashed-0.3.4.jar",
-    "modId": "mekanism_unleashed",
-    "name": "Mekanism Unleashed",
-    "version": "1.21.1-0.3.4",
-    "curseForgeHash": 2079445133,
-    "modrinthHash": "713c70fefebf78631dd39edbfa0f838928911c60"
-  },
   "MekanismAdditions-1.21.1-10.7.18.84.jar": {
     "jarName": "MekanismAdditions-1.21.1-10.7.18.84.jar",
     "modId": "mekanismadditions",
@@ -601,14 +641,6 @@
     "version": "10.7.18",
     "curseForgeHash": 3299365436,
     "modrinthHash": "7fe78ac405db81aefac6de0ac822b917884948bb"
-  },
-  "mekanismcovers-1.3-BETA+1.21.jar": {
-    "jarName": "mekanismcovers-1.3-BETA+1.21.jar",
-    "modId": "mekanismcovers",
-    "name": "Mekanism Covers",
-    "version": "1.3-BETA+1.21",
-    "curseForgeHash": 3368829855,
-    "modrinthHash": "1cfb68fcc9b833af7b992024943dc1e8d45799af"
   },
   "mekanismcurios-1.21.1-1.2.1.jar": {
     "jarName": "mekanismcurios-1.21.1-1.2.1.jar",
@@ -745,6 +777,14 @@
     "version": "4.0",
     "curseForgeHash": 705681725,
     "modrinthHash": "6f1b2a4a11440d07529957df80a525606cc8f2f5"
+  },
+  "ponderjs-neoforge-1.21.1-2.4.0.jar": {
+    "jarName": "ponderjs-neoforge-1.21.1-2.4.0.jar",
+    "modId": "ponderjs",
+    "name": "PonderJS",
+    "version": "1.21.1-2.4.0",
+    "curseForgeHash": 1117357919,
+    "modrinthHash": "9c35c5c31a613d58fc06e591e455bccfc3de6022"
   },
   "Prism-1.21.1-neoforge-1.0.11.jar": {
     "jarName": "Prism-1.21.1-neoforge-1.0.11.jar",
