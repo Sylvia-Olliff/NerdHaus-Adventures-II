@@ -1,0 +1,47 @@
+# Extensions
+**/*.log
+**/*.gz
+**/*.DS_Store
+**/*.jar
+**/*.mrpack
+**/*.code-workspace
+**/*.zip
+
+# Dev
+.vs/
+.vscode/
+.idea/
+package.g.props
+node_modules/
+.env
+
+# Docker
+/.github/docker/data
+/.github/docker/backups
+
+# Excluded Configs
+config/AppliedEnergistics2/items.csv
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/fml.toml
+config/neoforge-common.toml
+config/neoforge-client.toml
+
+# Specific Exclusions
+command_history.txt
+usercache.json
+usernamecache.json
+/logs
+/mods
+/saves
+/xaero
+/XaeroWaypoints*
+.curseclient
+/local
+/downloads
+/resourcepacks
+/datapacks
+minecraftinstance.json
+observable_announce
+/defaultconfigs
+emi.json
+options.txt
