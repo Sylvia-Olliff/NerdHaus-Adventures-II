@@ -7,8 +7,8 @@
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "energy_storage.style": "PROGRESS_BAR",
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -70,9 +70,6 @@
     "entity": true,
     "entity_variant": true
   },
-  "mekanismcovers": {
-    "cover_component": true
-  },
   "ftbquests": {
     "barrier": true
   },
@@ -89,6 +86,10 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "extendedae": {
+    "jade_chamber": true,
+    "jade_wireless": true
   },
   "balm": {
     "jade": true
@@ -108,15 +109,15 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "jadeaddons.lootr": {
+    "info": true
+  },
   "mekanism": {
     "chemical": true,
     "remove_builtin": true,
     "fluid": true,
     "energy": true,
     "tooltip_renderer": true
-  },
-  "jadeaddons.lootr": {
-    "info": true
   },
   "waystones": {
     "waystone": true

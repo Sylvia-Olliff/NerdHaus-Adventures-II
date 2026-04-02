@@ -1,0 +1,4767 @@
+{
+  "export": {
+    "filesSelection": [
+      {
+        "path": ".mixin.out",
+        "isSelected": false
+      },
+      {
+        "path": ".mixin.out\\class",
+        "isSelected": false
+      },
+      {
+        "path": ".mixin.out\\class\\com",
+        "isSelected": false
+      },
+      {
+        "path": ".mixin.out\\class\\com\\simibubi",
+        "isSelected": false
+      },
+      {
+        "path": ".mixin.out\\class\\com\\simibubi\\create",
+        "isSelected": false
+      },
+      {
+        "path": ".mixin.out\\class\\com\\simibubi\\create\\content",
+        "isSelected": false
+      },
+      {
+        "path": ".mixin.out\\class\\com\\simibubi\\create\\content\\logistics",
+        "isSelected": false
+      },
+      {
+        "path": ".mixin.out\\class\\com\\simibubi\\create\\content\\logistics\\factoryBoard",
+        "isSelected": false
+      },
+      {
+        "path": ".mixin.out\\class\\com\\simibubi\\create\\content\\logistics\\factoryBoard\\FactoryPanelBehaviour.class",
+        "isSelected": false
+      },
+      {
+        "path": "config",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexscaves_biome_generation",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexscaves_biome_generation\\.version",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexscaves_biome_generation\\abyssal_chasm.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexscaves_biome_generation\\candy_cavity.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexscaves_biome_generation\\forlorn_hollows.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexscaves_biome_generation\\magnetic_caves.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexscaves_biome_generation\\primordial_caves.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexscaves_biome_generation\\toxic_caves.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\alligator_snapping_turtle_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\anaconda_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\anteater_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\bald_eagle_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\banana_slug_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\bison_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\blobfish_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\blue_jay_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\bone_serpent_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\bunfungus_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\cachalot_whale_beached_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\cachalot_whale_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\caiman_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\capuchin_monkey_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\catfish_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\cave_centipede_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\cockroach_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\comb_jelly_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\cosmaw_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\cosmic_cod_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\crimson_mosquito_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\crocodile_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\crow_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\devils_hole_pupfish_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\dropbear_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\elephant_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\emu_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\endergrade_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\enderiophage_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\farseer.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\flutter_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\flying_fish_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\fly_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\frilled_shark_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\froststalker_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\gazelle_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\gelada_monkey_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\giant_squid_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\gorilla_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\grizzly_bear_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\guster_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\hammerhead_shark_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\hummingbird_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\jerboa_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\kangaroo_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\komodo_dragon_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\laviathan_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\leafcutter_anthill_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\lobster_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\maned_wolf_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\mantis_shrimp_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\mimicube_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\mimic_octopus_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\moose_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\mudskipper_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\mungus_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\murmur.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\orca_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\platypus_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\potoo_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\raccoon_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\rain_frog_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\rattlesnake_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\rhinoceros_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\roadrunner_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\rocky_roller_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\seagull_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\seal_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\shoebill_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\skelewag_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\skreecher.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\skunk_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\snow_leopard_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\soul_vulture_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\spectre_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\straddler_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\stradpole_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\sugar_glider_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\sunbird_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\tarantula_hawk_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\tasmanian_devil_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\terrapin_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\tiger_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\toucan_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\triops_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\tusklin_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\underminer.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\void_worm_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\warped_mosco_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs\\warped_toad_spawns.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\unification",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\unification\\materials.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\.gitignore",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\debug.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\duplicates.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\placeholders.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\startup.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\almostunified\\tags.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\better_lib",
+        "isSelected": true
+      },
+      {
+        "path": "config\\better_lib\\common.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomeswevegone",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomeswevegone\\misc.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomeswevegone\\mob_spawn.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomeswevegone\\trades.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\biomeswevegone\\world_generation.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\crash_assistant_localization_overrides",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\crash_assistant_localization_overrides\\README.md",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\scripts",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\scripts\\log_analysis",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\scripts\\log_analysis\\example.jexl",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\scripts\\startup",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\scripts\\startup\\example.jexl",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\config.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crash_assistant\\modlist.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_better_villagers",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_better_villagers\\common.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\croptopia",
+        "isSelected": true
+      },
+      {
+        "path": "config\\croptopia\\croptopia_v3.conf",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\assets",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\customization",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\custom_locals",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\layout_editor",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\layout_editor\\widgets",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\panoramas",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\slideshows",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\ui_themes",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\ui_themes\\dark.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\ui_themes\\light.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\customizablemenus.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\custom_gui_screens.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\legacy_checklist.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\options.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancymenu\\user_variables.db",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancytoasts",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancytoasts\\textures",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancytoasts\\general.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancytoasts\\toast.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fancytoasts\\toast_filtering.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapters\\when_dungeons_arise.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\lang",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\lang\\en_us.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\reward_tables",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\reward_tables\\wda_food.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\chapter_groups.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests\\quests\\data.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\hide-blocks.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\hide-entities.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\jade.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\plugins.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jade\\sort-order.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\de_de.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\en_us.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\pl_pl.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\konkrete\\locals\\pt_br.local",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\ancient_blaze.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\baby_ender_dragon.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\crab.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\elephant.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\flamingo.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\giraffe.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\koala.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\lion.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\livingthings.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\mantaray.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\monkey.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\nether_knight.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\ostrich.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\owl.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\peacock.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\penguin.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\raccoon.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\seahorse.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\shark.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\shroomie.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\livingthings\\snail.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\additions-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\additions.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\gear.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\general.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\generator-storage.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\generators-gear.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\generators.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\machine-storage.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\machine-usage.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\startup.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\tiers.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\tools-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\tools-materials-startup.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\tools.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\world-1.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism\\world.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism-Extras",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism-Extras\\general.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism-Extras\\generators.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism-Extras\\machine-storage.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism-Extras\\machine-usage.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Mekanism-Extras\\tiers.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\questlog",
+        "isSelected": true
+      },
+      {
+        "path": "config\\questlog\\chapters",
+        "isSelected": true
+      },
+      {
+        "path": "config\\questlog\\chapters\\main.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\questlog\\quests",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark\\tmp",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark\\tmp\\about.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark\\tmp-client",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark\\tmp-client\\about.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spark\\config.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\underground_village",
+        "isSelected": true
+      },
+      {
+        "path": "config\\underground_village\\common.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\lib",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\lib\\profiles",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\lib\\profiles\\default.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\lib\\server_profiles",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\lib\\server_profiles\\default.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\lib\\client.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\lib\\common.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\minimap",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\minimap\\profiles",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\minimap\\profiles\\info_display_config",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\minimap\\profiles\\info_display_config\\default.cfg.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\minimap\\profiles\\default.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\minimap\\server_profiles",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\minimap\\server_profiles\\default.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\minimap\\client.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\minimap\\common.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\minimap\\default_radar_categories_client.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\minimap\\default_radar_categories_server.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\world-map",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\world-map\\profiles",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\world-map\\profiles\\default.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\world-map\\server_profiles",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\world-map\\server_profiles\\default.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\world-map\\client.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaero\\world-map\\common.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advanced_ae-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\advanced_ae-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ae2-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ae2-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ae2ct-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ae2wtlib.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexscaves-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexscaves-general.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alexsmobs-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alltheleaks.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\alpinewhispers-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\appleskin-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\bcc-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\blazinghot-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\blazinghot-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\c2me.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cfwinfo-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\chococraft-4-breeding.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\chococraft-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\citadel-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\clienttweaks-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cmverticaladditions-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\copycats-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\copycats-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\copycats-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crashutilities-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create-stuff-additions.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createaddition-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createcasing-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createcobblestone-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createdieselgenerators-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createdieselgenerators-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createdieselgenerators-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createenchantablemachinery-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createenchantablemachinery-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createfood-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createfood-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createnuclear-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createoreexcavation-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createoreexcavation-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createrailwaysnavigator-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createrailwaysnavigator-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\createultimine-server.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_ae2recipes-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_bitterballen.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_connected-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_connected-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_dragons_plus-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_dragons_plus-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_dragons_plus-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_enchantment_industry-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_enchantment_industry-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_factory_logistics-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_new_age-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\create_new_age-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\crittersandcompanions-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cupboard.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\curios-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\curios-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\curios-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\deeperdarker-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\dragonlib-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\embeddium-fingerprint.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\embeddium-mixins.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\embeddium-options.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\emi.css",
+        "isSelected": true
+      },
+      {
+        "path": "config\\explorerscompass-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\explorerscompass-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\extendedae-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\extra_gauges-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\extra_gauges-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\farmersdelight-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\farmersdelight-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\farm_and_charm-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ferritecore-mixin.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\flywheel-client-1.toml.bak",
+        "isSelected": true
+      },
+      {
+        "path": "config\\flywheel-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fml.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbchunks-client.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbchunks-world.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftblibrary-client.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbquests-client.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbultimine-client.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbultimine-server.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftbxmodcompat.snbt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\guideme.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\immersiveui.yaml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\immersive_aircraft.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\kjsae2bridge-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\Koopa's Critters Configurations.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\legendarytooltips.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lmft.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lootintegrations.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lootr-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\lootr-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\meadow-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\megacells-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\merequester-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mobcontrol.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modernfix-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\modernfix-mixins.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\mod_menu-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\moremekanismprocessing-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\moremekanismprocessing-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\MouseTweaks.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\naturescompass-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\naturescompass-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\neoforge-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\neoforge-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\neoforge-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\observable.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\packetfixer.properties",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ponder-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\questlog-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ribbits-neoforge-1_21_1.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ribbits-options.json",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sliceanddice-client.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\sliceanddice-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\terrablender.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\tfmg-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\tfmg-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\trading_floor-server.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\travelerscompass-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\travelerscompass-cost.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\wanderer_ribbit-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\wandering-ribbit-spawn-config.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\waystones-common.toml",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaerohud.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\xaeropatreon.txt",
+        "isSelected": true
+      },
+      {
+        "path": "crash-reports",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2026-03-29_19.27.41-fml.txt",
+        "isSelected": false
+      },
+      {
+        "path": "datapacks",
+        "isSelected": true
+      },
+      {
+        "path": "defaultconfigs",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\biolith",
+        "isSelected": false
+      },
+      {
+        "path": "defaultconfigs\\biolith\\general.json",
+        "isSelected": false
+      },
+      {
+        "path": "downloads",
+        "isSelected": false
+      },
+      {
+        "path": "downloads\\log.json",
+        "isSelected": false
+      },
+      {
+        "path": "fancymenu_data",
+        "isSelected": false
+      },
+      {
+        "path": "fancymenu_data\\cached_data",
+        "isSelected": false
+      },
+      {
+        "path": "fancymenu_data\\fancymenu_temp",
+        "isSelected": false
+      },
+      {
+        "path": "fancymenu_data\\last_world.fmdata",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\block\\example_block.png",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\assets\\kubejs\\textures\\item\\example_item.png",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\client_scripts",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\client_scripts\\main.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\config",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\config\\client.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\config\\common.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\config\\web_server.json",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\data",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\documentation",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\documentation\\index.html",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\server_scripts\\main.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\startup_scripts",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\startup_scripts\\main.js",
+        "isSelected": false
+      },
+      {
+        "path": "kubejs\\README.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\AdvancedAE-1.6.10-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\AE2-Things-1.4.2-beta.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ae2ct-1.21.1-1.1.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ae2importexportcard-1.21.1-1.4.3.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\AE2MEGAThings-1.21.1-2.0.4.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ae2qolrecipes-neoforge-1.21.x-1.3.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ae2wtlib-19.4.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\alexscaves-2.0.9.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\alexsmobs-1.22.17.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\alltheleaks-1.1.7+1.21.1-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\almostunified-neoforge-1.21.1-1.3.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\alternate_current-mc1.21-1.9.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\animal_feeding_trough-1.1.2+1.21-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\anvilcore-10.1 Release-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\appleskin-neoforge-mc1.21-3.0.8.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Applied-Mekanistics-1.6.3.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\appliedenergistics2-19.2.17.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\applied_kjs-1.0.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\architectury-13.0.8-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\athena-neoforge-1.21-4.0.2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\balm-neoforge-1.21.1-21.0.56.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\bellsandwhistles-0.4.7-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\better-compatability-checker-neoforge-21.1.8.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\better_lib-neoforge-1.21.1-1.0.109.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\better_modlist-1.1.22.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\biolith-neoforge-3.0.10.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\cfwinfo-1.6.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\citadel-1.21.1-2.7.5.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\clienttweaks-neoforge-1.21.1-21.1.10.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\cloth-config-15.0.140-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\cmparallelpipes-neoforge-2.0.2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\cmverticaladditions-neoforge-1.0.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\copycats-3.0.4+mc.1.21.1-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Corgilib-NeoForge-1.21.1-5.0.0.9.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\crashutilities-9.0.4.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Create Encased-1.21.1-1.8-ht2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create-1.21.1-6.0.9.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create-dragons-plus-1.8.7.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create-enchantment-industry-2.3.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create-integrated-farming-1.2.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create-new-age-1.1.7c+neoforge-mc1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create-stuff-additions1.21.1_v2.1.0e.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createaddition-1.5.10.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createbicbit-forge-1.21.1-1.0.2B.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createcobblestone-1.4.9+neoforge-1.21.1-130.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createdeco-2.1.2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createdieselgenerators-1.21.1-1.3.8.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createfood-neoforge-1.21.1-2.2.0a.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createmetalwork-2.0.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createnuclear-1.3.2-beta.3-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createoreexcavation-1.21-1.6.8.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createrailwaysnavigator-neoforge-1.21.1-beta-0.8.5.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createstockbridge-1.21.1-0.1.6.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\createultimine-1.21.1-neoforge-1.3.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_ae2recipes-0.2.0+1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_better_villagers-1.3.2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_blazing_hot-0.7.2+neoforge-mc1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_cheese_factory-1.5.0-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_connected-1.1.13-mc1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_deepfried-forge-1.21.1-0.1.3C.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_factory-0.5a-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_factory_logistics-1.21.1-1.4.9.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_ironworks-4.0.3-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_jetpack_curios-1.2.0-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_ltab-3.8.4.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_mekanism_improvements-2.0.3-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_oxidized-0.1.3.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_pattern_schematics-2.0.10.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_pillagers_arise-132.32 Release-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_recycle_everything-2.1.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_rustic_structures-1.0.0-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_simple_ore_doubling-1.6.0-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_things_and_misc-4.1.0-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_train_parts-0.3.6-1.21.1-6.0.9-216.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\create_ultimate_factory-2.2.3-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\crittersandcompanions-neoforge-1.21.1-2.3.4.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\croptopia_1.21.1_NEO-FORGE-4.2.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\cupboard-1.21-3.5.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\curios-neoforge-9.5.1+1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\deeperdarker-neoforge-1.21.1-1.3.5.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\DungeonsArise-1.21.1-2.1.68-release.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\embeddium-1.0.15+mc1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\emi-1.1.22+1.21.1+neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ExplorersCompass-1.21.1-3.0.3-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ExtendedAE-1.21-2.2.30-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\extra_gauges-2.0.6.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\fancymenu_neoforge_3.8.1_MC_1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\fancytoasts-neoforge-1.21.1-1.4.6.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\FarmersDelight-1.21.1-1.2.11.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ferritecore-7.0.3-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ftb-chunks-neoforge-2101.1.14.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ftb-filter-system-neoforge-21.1.4.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ftb-library-neoforge-2101.1.31.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ftb-quests-neoforge-2101.1.23.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ftb-teams-neoforge-2101.1.9.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ftb-ultimine-neoforge-2101.1.13.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ftb-xmod-compat-neoforge-21.1.8.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\geckolib-neoforge-1.21.1-4.8.4.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Glodium-1.21-2.2-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\GoodEnding-1.21.1-1.1.0-NeoForge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\guideme-21.1.15.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Iceberg-1.21.1-neoforge-1.3.2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\immersive_aircraft-1.4.3+1.21.1-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Jade-1.21.1-NeoForge-15.10.5.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\JadeAddons-1.21.1-NeoForge-6.1.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\jei-1.21.1-neoforge-19.27.0.336.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\konkrete_neoforge_1.9.9_MC_1.21.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Koopa'sCritters_1.21.1Neoforge_V0.4.2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\kotlinforforge-5.11.0-all.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\kubejs-create-neoforge-2101.3.1-build.18.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\kubejs-mekanism-neoforge-2101.1.7-build.18.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\kubejs-neoforge-2101.7.2-build.348.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\kubejscustomevents-1.0.3.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\kubejsdelight-1.21.1-1.1.5.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\kubejsoffline-neoforge-5.2.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\kubejstweaks-1.0.6.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\kubejs_curios_neoforge_1.21.1-1.0.4.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\LegendaryTooltips-1.21.1-neoforge-1.5.5.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\letsdo-bloomingnature-neoforge-1.1.9.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\letsdo-farm_and_charm-neoforge-1.1.21.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\letsdo-meadow-neoforge-1.4.8.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\letsdo-wildernature-neoforge-1.1.3.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\lmft-1.1.1+1.21.9-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\lootintegrations-1.21.1-4.7.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\lootintegration_wda-1.7.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\lootjs-neoforge-1.21.1-3.6.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\lootr-neoforge-1.21.1-1.11.37.118.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\megacells-4.10.2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\mekagenjei-1.2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\mekajadeupgrade-1.3.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Mekanism-1.21.1-10.7.18.84.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\MekanismAdditions-1.21.1-10.7.18.84.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\mekanismcovers-1.3-BETA+1.21.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\mekanismcurios-1.21.1-1.2.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\MekanismGenerators-1.21.1-10.7.18.84.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\MekanismTools-1.21.1-10.7.18.84.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\mekanism_extras-1.21.1-1.3.3.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\mekanism_ponders-1.0.2-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\mekanism_unleashed-0.3.4.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\melody_neoforge_1.0.10_MC_1.21.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\merequester-neoforge-1.21.1-1.4.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\mobcontrol-1.21.1-1.5.15.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\modernfix-neoforge-5.26.1+mc1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\MoreMekanismProcessing-1.21.1-6.8.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\MouseTweaks-neoforge-mc1.21-2.26.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\mythicalcritters-0.1.2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\NaturesCompass-1.21.1-3.0.3-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\observable-5.4.4.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\OctoLib-NEOFORGE-0.6.1+1.21.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.2.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\OmniCompass-neoforge-1.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\packetfixer-3.3.1-1.20.5-1.21.X-merged.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\PingHUD-4.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\ponderjs-neoforge-1.21.1-2.4.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Prism-1.21.1-neoforge-1.0.11.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\questlog-neoforge-1.21.1-2.0.6.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\reanimal-0.4.2.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\rhino-2101.2.7-build.81.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Ribbits-1.21.1-NeoForge-4.1.6.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\SkyVillages-1.0.6-1.21.x-neoforge-release.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\sliceanddice-forge-4.2.4.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\spark-1.10.124-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\st_cdc-1.21.1-1.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\TerraBlender-neoforge-1.21.1-4.1.0.8.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\Terralith_1.21.x_v2.5.8.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\tfmg-1.2.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\toomanyrecipeviewers-0.7.2+mc.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\trading_floor-3.0.16.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\travelerscompass-neoforge-1.21.1-4.0.04.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\underground_village-neoforge-1.21.1-1.5.7.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\wandering_ribbit-3.0.0-neoforge-1.21.1.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\waystones-neoforge-1.21.1-21.1.29.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\wda_questline-1.21.1-1.0.0.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\wits-1.3.0+1.21-neoforge.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\xaerominimap-neoforge-1.21.1-25.3.10.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\xaeroworldmap-neoforge-1.21.1-1.40.11.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\mod_data_cache_v4\\YungsApi-1.21.1-NeoForge-5.1.6.jar.mod_data.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\408_1774827090737.info",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\408_1774827090737_app.jar",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\408_1774827090737_args.info",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\408_1774827090737_gpu-detect-jni.dll",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\408_1774827090737_mod.jar",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\CONFIG_LOCK.tmp",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\gpu-detect-jni-README.MD",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\joined_world_pid408.tmp",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\local_config.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\normal_stop_pid408.tmp",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\renderer_pid408.tmp",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\successful_launch_pid408.tmp",
+        "isSelected": false
+      },
+      {
+        "path": "local\\crash_assistant\\username.info",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\046be666-13a4-4d75-a152-bd29e4c458bf",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\046be666-13a4-4d75-a152-bd29e4c458bf\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\046be666-13a4-4d75-a152-bd29e4c458bf\\minecraft_overworld\\0EA5F-0EA5E.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\046be666-13a4-4d75-a152-bd29e4c458bf\\minecraft_overworld\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\046be666-13a4-4d75-a152-bd29e4c458bf\\minecraft_overworld\\0EA60-0EA5E.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\046be666-13a4-4d75-a152-bd29e4c458bf\\minecraft_overworld\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\046be666-13a4-4d75-a152-bd29e4c458bf\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\046be666-13a4-4d75-a152-bd29e4c458bf\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\046be666-13a4-4d75-a152-bd29e4c458bf\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\046be666-13a4-4d75-a152-bd29e4c458bf\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\046be666-13a4-4d75-a152-bd29e4c458bf\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA5F-0EA5A.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA5F-0EA5B.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA60-0EA5A.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA60-0EA5B.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA60-0EA5C.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA60-0EA5D.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA60-0EA5E.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA61-0EA5A.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA61-0EA5B.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA61-0EA5C.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA61-0EA5D.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA61-0EA5E.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA61-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA62-0EA5A.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA62-0EA5B.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA62-0EA5C.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA62-0EA5D.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA62-0EA5E.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA62-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\0EA63-0EA5B.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_the_nether",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_the_nether\\0EA5F-0EA5E.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_the_nether\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_the_nether\\0EA60-0EA5E.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_the_nether\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_the_nether\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\minecraft_the_nether\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\25fbb262-1707-4f9c-980b-f9cf277b5256\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\4c9adbc7-a38d-48f1-9b5b-1acb58edefdb",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\4c9adbc7-a38d-48f1-9b5b-1acb58edefdb\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\4c9adbc7-a38d-48f1-9b5b-1acb58edefdb\\minecraft_overworld\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\4c9adbc7-a38d-48f1-9b5b-1acb58edefdb\\minecraft_overworld\\0EA5F-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\4c9adbc7-a38d-48f1-9b5b-1acb58edefdb\\minecraft_overworld\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\4c9adbc7-a38d-48f1-9b5b-1acb58edefdb\\minecraft_overworld\\0EA60-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\4c9adbc7-a38d-48f1-9b5b-1acb58edefdb\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\4c9adbc7-a38d-48f1-9b5b-1acb58edefdb\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\4c9adbc7-a38d-48f1-9b5b-1acb58edefdb\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\4c9adbc7-a38d-48f1-9b5b-1acb58edefdb\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\4c9adbc7-a38d-48f1-9b5b-1acb58edefdb\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\56372bf3-dde8-49b9-b586-eb5d942be3e3",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\56372bf3-dde8-49b9-b586-eb5d942be3e3\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\56372bf3-dde8-49b9-b586-eb5d942be3e3\\minecraft_overworld\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\56372bf3-dde8-49b9-b586-eb5d942be3e3\\minecraft_overworld\\0EA5F-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\56372bf3-dde8-49b9-b586-eb5d942be3e3\\minecraft_overworld\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\56372bf3-dde8-49b9-b586-eb5d942be3e3\\minecraft_overworld\\0EA60-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\56372bf3-dde8-49b9-b586-eb5d942be3e3\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\56372bf3-dde8-49b9-b586-eb5d942be3e3\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\56372bf3-dde8-49b9-b586-eb5d942be3e3\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\56372bf3-dde8-49b9-b586-eb5d942be3e3\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\56372bf3-dde8-49b9-b586-eb5d942be3e3\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\0EA5F-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\0EA60-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\0EA61-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\0EA61-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\0EA62-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\0EA62-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\0EA63-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\0EA63-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\61b839fd-2704-4f78-9564-34392310656d\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\export",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\exported_packs",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\local_server_scripts",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\local_startup_scripts",
+        "isSelected": false
+      },
+      {
+        "path": "local\\kubejs\\dev.json",
+        "isSelected": false
+      },
+      {
+        "path": "logs",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\almostunified",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\almostunified\\almostunified.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-03-28_11-46-30.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-03-28_12-39-37.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-03-28_12-43-07.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-03-28_16-50-41.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-03-28_17-43-34.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-03-29_12-49-01.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-03-29_13-56-32.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\crash_assistant_app_2026-03-29_19-26-49.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\crash_assistant\\startup_scripts.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\client.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\server.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\kubejs\\startup.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\telemetry",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-03-28-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-03-28-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-03-28-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-03-28-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-03-28-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-03-29-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-03-29-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-03-29-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\debug.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\latest.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\modlist.txt",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\stderr_stream.log",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\stdout-logs.txt",
+        "isSelected": false
+      },
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AdvancedAE-1.6.10-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AE2-Things-1.4.2-beta.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ae2ct-1.21.1-1.1.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ae2importexportcard-1.21.1-1.4.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AE2MEGAThings-1.21.1-2.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ae2qolrecipes-neoforge-1.21.x-1.3.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ae2wtlib-19.4.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\alexscaves-2.0.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\alexsmobs-1.22.17.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\alltheleaks-1.1.7+1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\almostunified-neoforge-1.21.1-1.3.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\alternate_current-mc1.21-1.9.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\animal_feeding_trough-1.1.2+1.21-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\anvilcore-10.1 Release-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\appleskin-neoforge-mc1.21-3.0.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Applied-Mekanistics-1.6.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\appliedenergistics2-19.2.17.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\applied_kjs-1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\architectury-13.0.8-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\athena-neoforge-1.21-4.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\balm-neoforge-1.21.1-21.0.56.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\bellsandwhistles-0.4.7-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\better-compatability-checker-neoforge-21.1.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\better_lib-neoforge-1.21.1-1.0.109.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\better_modlist-1.1.22.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\biolith-neoforge-3.0.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cfwinfo-1.6.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\citadel-1.21.1-2.7.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\clienttweaks-neoforge-1.21.1-21.1.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cloth-config-15.0.140-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cmparallelpipes-neoforge-2.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cmverticaladditions-neoforge-1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\copycats-3.0.4+mc.1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\crashutilities-9.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Create Encased-1.21.1-1.8-ht2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-1.21.1-6.0.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-dragons-plus-1.8.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-enchantment-industry-2.3.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-new-age-1.1.7c+neoforge-mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-stuff-additions1.21.1_v2.1.0e.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createaddition-1.5.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createbicbit-forge-1.21.1-1.0.2B.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createcobblestone-1.4.9+neoforge-1.21.1-130.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createdeco-2.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createdieselgenerators-1.21.1-1.3.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createfood-neoforge-1.21.1-2.2.0a.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createmetalwork-2.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createnuclear-1.3.2-beta.3-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createoreexcavation-1.21-1.6.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createrailwaysnavigator-neoforge-1.21.1-beta-0.8.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createstockbridge-1.21.1-0.1.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createultimine-1.21.1-neoforge-1.3.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_ae2recipes-0.2.0+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_better_villagers-1.3.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_blazing_hot-0.7.2+neoforge-mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_cheese_factory-1.5.0-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_connected-1.1.13-mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_deepfried-forge-1.21.1-0.1.3C.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_factory-0.5a-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_factory_logistics-1.21.1-1.4.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_ironworks-4.0.3-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_ltab-3.8.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_mekanism_improvements-2.0.3-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_oxidized-0.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_pattern_schematics-2.0.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_pillagers_arise-132.32 Release-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_recycle_everything-2.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_rustic_structures-1.0.0-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_simple_ore_doubling-1.6.0-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_things_and_misc-4.1.0-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_train_parts-0.3.6-1.21.1-6.0.9-216.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\crittersandcompanions-neoforge-1.21.1-2.3.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\croptopia_1.21.1_NEO-FORGE-4.2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cupboard-1.21-3.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\curios-neoforge-9.5.1+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\deeperdarker-neoforge-1.21.1-1.3.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\DungeonsArise-1.21.1-2.1.68-release.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\embeddium-1.0.15+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\emi-1.1.22+1.21.1+neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ExplorersCompass-1.21.1-3.0.3-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ExtendedAE-1.21-2.2.30-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\extra_gauges-2.0.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fancytoasts-neoforge-1.21.1-1.4.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FarmersDelight-1.21.1-1.2.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ferritecore-7.0.3-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-chunks-neoforge-2101.1.14.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-filter-system-neoforge-21.1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-library-neoforge-2101.1.31.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-quests-neoforge-2101.1.23.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-teams-neoforge-2101.1.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-ultimine-neoforge-2101.1.13.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-xmod-compat-neoforge-21.1.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\geckolib-neoforge-1.21.1-4.8.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Glodium-1.21-2.2-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\GoodEnding-1.21.1-1.1.0-NeoForge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\guideme-21.1.15.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Iceberg-1.21.1-neoforge-1.3.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\immersive_aircraft-1.4.3+1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Jade-1.21.1-NeoForge-15.10.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\konkrete_neoforge_1.9.9_MC_1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Koopa'sCritters_1.21.1Neoforge_V0.4.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kotlinforforge-5.11.0-all.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejs-create-neoforge-2101.3.1-build.18.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejs-mekanism-neoforge-2101.1.7-build.18.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejs-neoforge-2101.7.2-build.348.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejscustomevents-1.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejsdelight-1.21.1-1.1.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejsoffline-neoforge-5.2.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejstweaks-1.0.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejs_curios_neoforge_1.21.1-1.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\letsdo-bloomingnature-neoforge-1.1.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\letsdo-farm_and_charm-neoforge-1.1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\letsdo-meadow-neoforge-1.4.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\letsdo-wildernature-neoforge-1.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lmft-1.1.1+1.21.9-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lootintegrations-1.21.1-4.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lootintegration_wda-1.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lootjs-neoforge-1.21.1-3.6.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lootr-neoforge-1.21.1-1.11.37.118.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\megacells-4.10.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mekajadeupgrade-1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Mekanism-1.21.1-10.7.18.84.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MekanismAdditions-1.21.1-10.7.18.84.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mekanismcurios-1.21.1-1.2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MekanismGenerators-1.21.1-10.7.18.84.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MekanismTools-1.21.1-10.7.18.84.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mekanism_extras-1.21.1-1.3.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mekanism_ponders-1.0.2-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\melody_neoforge_1.0.10_MC_1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\merequester-neoforge-1.21.1-1.4.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mobcontrol-1.21.1-1.5.15.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\modernfix-neoforge-5.26.1+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MoreMekanismProcessing-1.21.1-6.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mythicalcritters-0.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\observable-5.4.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\OctoLib-NEOFORGE-0.6.1+1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\OmniCompass-neoforge-1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\PingHUD-4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ponderjs-neoforge-1.21.1-2.4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Prism-1.21.1-neoforge-1.0.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\questlog-neoforge-1.21.1-2.0.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\reanimal-0.4.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rhino-2101.2.7-build.81.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Ribbits-1.21.1-NeoForge-4.1.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\SkyVillages-1.0.6-1.21.x-neoforge-release.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sliceanddice-forge-4.2.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\spark-1.10.124-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\st_cdc-1.21.1-1.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Terralith_1.21.x_v2.5.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\tfmg-1.2.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\toomanyrecipeviewers-0.7.2+mc.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\trading_floor-3.0.16.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\travelerscompass-neoforge-1.21.1-4.0.04.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\underground_village-neoforge-1.21.1-1.5.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\wandering_ribbit-3.0.0-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\waystones-neoforge-1.21.1-21.1.29.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\wda_questline-1.21.1-1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\wits-1.3.0+1.21-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\xaerominimap-neoforge-1.21.1-25.3.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\YungsApi-1.21.1-NeoForge-5.1.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks",
+        "isSelected": true
+      },
+      {
+        "path": "schematics",
+        "isSelected": false
+      },
+      {
+        "path": "shaderpacks",
+        "isSelected": true
+      },
+      {
+        "path": "xaero",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\minimap",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\minimap\\backup",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\minimap\\New World",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\minimap\\New World\\dim%0",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\minimap\\New World\\dim%0\\waypoints.txt",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\minimap\\New World\\config.txt",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\cache_1\\-1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\1\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\1\\cache_1\\-1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\1\\cache_1\\-1_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\1\\cache_1\\0_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\1\\cache_1\\0_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\2",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\2\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\2\\cache_1\\-1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\2\\cache_1\\-1_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\2\\cache_1\\0_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\2\\cache_1\\0_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\3",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\3\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\3\\cache_1\\-1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\3\\cache_1\\-1_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\3\\cache_1\\0_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\3\\cache_1\\0_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\4",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\4\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\4\\cache_1\\-1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\4\\cache_1\\-1_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\4\\cache_1\\0_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\4\\cache_1\\0_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\5",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\5\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\5\\cache_1\\-1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\5\\cache_1\\-1_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\5\\cache_1\\0_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\5\\cache_1\\0_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\6",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\6\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\6\\cache_1\\-1_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\6\\cache_1\\-1_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\6\\cache_1\\0_-1.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\caves\\6\\cache_1\\0_-2.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\.lock",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\DIM-1\\dimension_config.txt",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\-1_-5.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\-1_-6.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\0_-1.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\0_-2.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\0_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\0_-4.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\1_-1.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\1_-2.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\1_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\1_-4.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\2_-1.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\2_-2.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\2_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\2_-4.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\cache_1\\2_-5.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-1\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-2",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-2\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-2\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-2\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-3",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-3\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-3\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-3\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-3\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-3\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-4",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-4\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-4\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\-4\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\0",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\0\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\0\\cache_1\\0_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\0\\cache_1\\1_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\1\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\1\\cache_1\\0_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\1\\cache_1\\1_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\10",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\10\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\10\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\10\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\10\\cache_1\\1_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\10\\cache_1\\1_-4.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\10\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\10\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\10\\cache_1\\2_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\10\\cache_1\\2_-4.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\11",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\11\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\11\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\11\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\11\\cache_1\\1_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\11\\cache_1\\1_-4.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\11\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\11\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\11\\cache_1\\2_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\11\\cache_1\\2_-4.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\12",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\12\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\12\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\12\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\12\\cache_1\\1_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\12\\cache_1\\1_-4.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\12\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\12\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\12\\cache_1\\2_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\12\\cache_1\\2_-4.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\13",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\13\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\13\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\13\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\13\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\13\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\14",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\14\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\14\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\14\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\14\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\14\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\15",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\15\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\15\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\15\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\15\\cache_1\\1_-4.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\15\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\15\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\15\\cache_1\\2_-4.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\15\\cache_1\\2_-5.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\16",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\16\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\16\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\16\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\16\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\16\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\2",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\2\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\2\\cache_1\\0_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\2\\cache_1\\1_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\3",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\3\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\3\\cache_1\\0_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\3\\cache_1\\0_-4.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\3\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\3\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\3\\cache_1\\1_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\3\\cache_1\\1_-4.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\3\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\3\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\0_-1.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\0_-2.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\0_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\1_-1.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\1_-2.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\1_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\1_-4.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\2_-1.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\2_-2.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\2_-4.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\4\\cache_1\\2_-5.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\5",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\5\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\5\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\5\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\5\\cache_1\\1_-2.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\5\\cache_1\\1_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\5\\cache_1\\1_-4.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\5\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\5\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\5\\cache_1\\2_-2.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\5\\cache_1\\2_-3.xwmc",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\6",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\6\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\6\\cache_1\\0_-4.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\6\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\6\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\6\\cache_1\\1_-4.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\6\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\6\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\7",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\7\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\7\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\7\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\7\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\7\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\8",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\8\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\8\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\8\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\8\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\8\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\9",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\9\\cache_1",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\9\\cache_1\\0_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\9\\cache_1\\0_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\9\\cache_1\\1_-5.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\caves\\9\\cache_1\\1_-6.xwmc.outdated",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\.lock",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\null\\dimension_config.txt",
+        "isSelected": false
+      },
+      {
+        "path": "xaero\\world-map\\New World\\server_config.txt",
+        "isSelected": false
+      },
+      {
+        "path": "XaeroWaypoints_BACKUP240807",
+        "isSelected": false
+      },
+      {
+        "path": "XaeroWaypoints_BACKUP240807\\backup",
+        "isSelected": false
+      },
+      {
+        "path": "XaeroWaypoints_BACKUP240807\\New World",
+        "isSelected": false
+      },
+      {
+        "path": "XaeroWaypoints_BACKUP240807\\New World\\config.txt",
+        "isSelected": false
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": ".gitignore",
+        "isSelected": false
+      },
+      {
+        "path": "ae2_grid_0_20260329_1311.zip",
+        "isSelected": false
+      },
+      {
+        "path": "command_history.txt",
+        "isSelected": false
+      },
+      {
+        "path": "emi.json",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": false
+      },
+      {
+        "path": "observable_announce",
+        "isSelected": false
+      },
+      {
+        "path": "options.txt",
+        "isSelected": false
+      },
+      {
+        "path": "user-prefs.json",
+        "isSelected": false
+      },
+      {
+        "path": "usercache.json",
+        "isSelected": false
+      },
+      {
+        "path": "usernamecache.json",
+        "isSelected": false
+      }
+    ],
+    "enableRecommendedRam": false
+  }
+}
