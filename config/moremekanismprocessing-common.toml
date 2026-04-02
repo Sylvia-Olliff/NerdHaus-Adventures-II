@@ -162,12 +162,12 @@
 	[ores.ruby]
 		# Default: 5
 		# Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 3
 
 	[ores.sapphire]
 		# Default: 5
 		# Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 3
 
 	[ores.ostrum]
 		# Default: 5
@@ -193,7 +193,7 @@
 	[ores.sulfur]
 		# Default: 5
 		# Range: 0 ~ 5
-		processingLevel = 5
+		processingLevel = 3
 
 	[ores.titanium]
 		# Default: 5

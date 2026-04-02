@@ -6,7 +6,7 @@
 	#Changes the radius fire extinguishers can remove fire in.
 	# Default: 1
 	# Range: > 0
-	fireExtinguisherClearRadius = 1
+	fireExtinguisherClearRadius = 3
 	#.
 	#Sets the internal resistance of the electric motor.
 	# Default: 30.0
@@ -142,4 +142,4 @@
 	depositMaxReserves = 10000
 	#.
 	#Makes deposits bottomless.
-	infiniteDeposits = false
+	infiniteDeposits = true

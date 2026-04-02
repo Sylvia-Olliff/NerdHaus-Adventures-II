@@ -38,7 +38,7 @@
 		# The speed at which 3D models in tooltips will rotate.  Lower values rotate faster, set to 0 to disable rotation.
 		# Default: 12.0
 		# Range: 0.0 ~ 50.0
-		model_rotation_speed = 12.0
+		model_rotation_speed = 18.0
 		# If enabled, fixes a vanilla bug where displayed tooltip damage values are incorrect for weapons with the Sharpness enchantment.
 		fix_mc271840 = true
 		# (EXPERIMENTAL) The maximum width of tooltips.  Set to 0 for no limit.
@@ -51,7 +51,7 @@
 		max_tooltip_height = 0
 		# (EXPERIMENTAL) If enabled, tooltips that are larger than the maximum height specified (or the screen if not specified) will be scrollable with the mouse wheel.
 		#Allowed Values: ALWAYS, WITH_KEYBIND, NEVER
-		enable_tooltip_scrolling = "NEVER"
+		enable_tooltip_scrolling = "WITH_KEYBIND"
 		# (EXPERIMENTAL) The speed at which tooltips will scroll when scrolling is enabled.
 		# Default: 10.0
 		# Range: 1.0 ~ 50.0
