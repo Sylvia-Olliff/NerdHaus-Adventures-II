@@ -11,7 +11,9 @@
   "ae2:part_tooltip": null,
   "ae2:pattern_provider": null,
   "ae2:power_storage": null,
+  "ars_nouveau:mob_jar": null,
   "balm:jade": null,
+  "barbequesdelight:grill": null,
   "extendedae:jade_chamber": null,
   "extendedae:jade_wireless": null,
   "extendedae:tile_data": null,
@@ -96,5 +98,11 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
+  "treechop:plugin": null,
+  "twilightforest:chiseled_bookshelf_spawner": null,
+  "twilightforest:drying_rack": null,
+  "twilightforest:quest_ram_wool": null,
+  "untitledduckmod:lay_egg": null,
+  "untitledduckmod:next_eat": null,
   "waystones:waystone": null
 }

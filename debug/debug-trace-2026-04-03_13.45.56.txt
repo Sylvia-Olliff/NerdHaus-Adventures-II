@@ -1,0 +1,26 @@
+stackable_items:tick
+    [F] stackable_items:tick size=8
+        [C] execute as @a if items entity @s container.* #stackable_items:stack_to_16 run function stackable_items:modify/stack_16
+        [C] execute as @a if items entity @s weapon.offhand #stackable_items:stack_to_16 run item modify entity @s weapon.offhand stackable_items:stack_16
+        [C] execute as @a if items entity @s container.* #stackable_items:stack_to_64 run function stackable_items:modify/stack_64
+        [C] execute as @a if items entity @s weapon.offhand #stackable_items:stack_to_64 run item modify entity @s weapon.offhand stackable_items:stack_64
+        [C] scoreboard players add @a si.timer 1
+            [M] Added 1 to [si.timer] for SylvanTitan (now 2)
+        [R = 2] scoreboard players add @a si.timer 1
+        [C] execute as @a[scores={si.timer=10..}] run function stackable_items:merge/stack_16
+        [C] execute as @a[scores={si.timer=10..}] run function stackable_items:merge/stack_64
+        [C] scoreboard players set @a[scores={si.timer=10..}] si.timer 0
+            [E] No entity was found                [M] No entity was found
+clumps:tick
+    [F] clumps:tick size=2
+        [C] execute if score merge clumps.config matches 1 run function clumps:tick/merge
+            [M] Running function clumps:tick/merge
+        [F] clumps:tick/merge size=2
+            [C] execute store result storage clumps:data merge_radius int 1 run scoreboard players get merge_radius clumps.config
+                [M] merge_radius has 3 [clumps.config]
+            [R = 3] execute store result storage clumps:data merge_radius int 1 run scoreboard players get merge_radius clumps.config
+            [C] function clumps:macro/tick/merge with storage clumps:data
+                [M] Running function clumps:macro/tick/merge
+            [F] clumps:macro/tick/merge/-630188392 size=1
+                [C] execute if entity @e[type=minecraft:experience_orb] as @e[type=minecraft:experience_orb,limit=1] at @s if entity @e[type=minecraft:experience_orb,distance=0.1..3] as @e[type=experience_orb,distance=0.1..3] run function clumps:merge
+        [C] execute if score instant_pickup clumps.config matches 1 run function clumps:tick/instant_pickup

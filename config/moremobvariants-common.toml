@@ -1,0 +1,6 @@
+#Whether to enable the custom chicken textures.
+enableChickenVariants = true
+#The rarity of seeing a variant (1-100). Not currently used in basic logic but ready for expansion.
+# Default: 100
+# Range: 1 ~ 100
+variantChance = 100

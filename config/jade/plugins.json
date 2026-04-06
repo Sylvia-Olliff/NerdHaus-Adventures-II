@@ -53,6 +53,11 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "treechop": {
+    "plugin": true,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
+  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -106,6 +111,9 @@
     "crafting_monitor": true,
     "part_name": true
   },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
   },
@@ -119,7 +127,19 @@
     "energy": true,
     "tooltip_renderer": true
   },
+  "untitledduckmod": {
+    "lay_egg": true,
+    "next_eat": true
+  },
+  "twilightforest": {
+    "drying_rack": true,
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
+  },
   "waystones": {
     "waystone": true
+  },
+  "barbequesdelight": {
+    "grill": true
   }
 }
