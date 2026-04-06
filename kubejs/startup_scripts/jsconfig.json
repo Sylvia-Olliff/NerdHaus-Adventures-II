@@ -10,6 +10,7 @@
         "checkJs": false,
         "target": "ES2015",
         "disableSizeLimit": true,
+        "ignoreDeprecations": "6.0",
         "noEmit": true,
         "assumeChangesOnlyAffectDirectDependencies": true,
         "rootDir": ".",
