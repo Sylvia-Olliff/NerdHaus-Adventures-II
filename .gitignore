@@ -19,6 +19,9 @@ node_modules/
 /.github/docker/data
 /.github/docker/backups
 
+# Crash Logs
+crash-reports/
+
 # Excluded Configs
 config/AppliedEnergistics2/items.csv
 config/AppliedEnergistics2/CustomRecipes.cfg
@@ -45,3 +48,4 @@ observable_announce
 /defaultconfigs
 emi.json
 options.txt
+win_event*
