@@ -29,6 +29,8 @@ config/fml.toml
 config/neoforge-common.toml
 config/neoforge-client.toml
 config/ars_nouveau/search_index/
+/data
+/dynamic-resource-pack-cache
 
 # Specific Exclusions
 command_history.txt
