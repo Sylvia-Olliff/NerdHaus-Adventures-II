@@ -28,6 +28,7 @@ config/AppliedEnergistics2/CustomRecipes.cfg
 config/fml.toml
 config/neoforge-common.toml
 config/neoforge-client.toml
+config/ars_nouveau/search_index/
 
 # Specific Exclusions
 command_history.txt
