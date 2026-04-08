@@ -1266,6 +1266,14 @@
     "curseForgeHash": 2036560219,
     "modrinthHash": "538db7de4264f6d07ca2a5e7a947777ad8216225"
   },
+  "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar": {
+    "jarName": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+    "modId": "immediatelyfast",
+    "name": "ImmediatelyFast",
+    "version": "1.6.10+1.21.1",
+    "curseForgeHash": 1221808790,
+    "modrinthHash": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb"
+  },
   "immersive_aircraft-1.4.3+1.21.1-neoforge.jar": {
     "jarName": "immersive_aircraft-1.4.3+1.21.1-neoforge.jar",
     "modId": "immersive_aircraft",

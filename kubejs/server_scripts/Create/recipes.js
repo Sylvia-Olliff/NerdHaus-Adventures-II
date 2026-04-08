@@ -7,50 +7,40 @@ ServerEvents.recipes(evt => {
      */
     create.crushing()
         .itemIn('deeperdarker:gloomslate_coal_ore')
-        .itemOut('minecraft:coal')
-        .itemOut('minecraft:coal')
-        .itemOut('minecraft:coal')
+        .itemOut('3x minecraft:coal')
         .id('nerdhaus:create/crushing/gloomslate_coal_ore');
 
     create.crushing()
         .itemIn('deeperdarker:gloomslate_iron_ore')
-        .itemOut('minecraft:raw_iron')
-        .itemOut('minecraft:raw_iron')
+        .itemOut('2x minecraft:raw_iron')
         .itemOut('minecraft:raw_iron', 0.3)
         .itemOut('minecraft:raw_iron', 0.1)
         .id('nerdhaus:create/crushing/gloomslate_iron_ore');
 
     create.crushing()
         .itemIn('deeperdarker:gloomslate_gold_ore')
-        .itemOut('minecraft:raw_gold')
-        .itemOut('minecraft:raw_gold')
+        .itemOut('2x minecraft:raw_gold')
         .itemOut('minecraft:raw_gold', 0.3)
         .itemOut('minecraft:raw_gold', 0.1)
         .id('nerdhaus:create/crushing/gloomslate_gold_ore');
 
     create.crushing()
         .itemIn('deeperdarker:gloomslate_copper_ore')
-        .itemOut('minecraft:raw_copper')
-        .itemOut('minecraft:raw_copper')
+        .itemOut('2x minecraft:raw_copper')
         .itemOut('minecraft:raw_copper', 0.3)
         .itemOut('minecraft:raw_copper', 0.1)
         .id('nerdhaus:create/crushing/gloomslate_copper_ore');
 
     create.crushing()
         .itemIn('deeperdarker:gloomslate_redstone_ore')
-        .itemOut('minecraft:redstone')
-        .itemOut('minecraft:redstone')
-        .itemOut('minecraft:redstone')
-        .itemOut('minecraft:redstone')
+        .itemOut('4x minecraft:redstone')
         .itemOut('minecraft:redstone', 0.3)
         .itemOut('minecraft:redstone', 0.1)
         .id('nerdhaus:create/crushing/gloomslate_redstone_ore');
     
     create.crushing()
         .itemIn('deeperdarker:gloomslate_lapis_ore')
-        .itemOut('minecraft:lapis_lazuli')
-        .itemOut('minecraft:lapis_lazuli')
-        .itemOut('minecraft:lapis_lazuli')
+        .itemOut('3x minecraft:lapis_lazuli')
         .itemOut('minecraft:lapis_lazuli', 0.3)
         .itemOut('minecraft:lapis_lazuli', 0.1)
         .id('nerdhaus:create/crushing/gloomslate_lapis_ore');
