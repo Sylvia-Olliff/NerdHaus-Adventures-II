@@ -1,0 +1,94 @@
+{
+  "_config": {
+    "replaceSeasonalTextures": true,
+    "disableSeasonsDuringHoliday": false,
+    "nameTagPreventsTextureChange": true
+  },
+  "spawn_settings": {
+    "_default": {
+      "date": {
+        "from": "01-01",
+        "to": "31-12"
+      },
+      "textures": [
+        {
+          "name": "normal_chicken",
+          "weight": 1.0,
+          "enabled": true
+        }
+      ]
+    },
+    "spring": {
+      "date": {
+        "from": "01-03",
+        "to": "31-05"
+      },
+      "textures": [
+        {
+          "name": "cherry_blossom_chicken",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "flower_chicken",
+          "weight": 1.0,
+          "enabled": true
+        }
+      ]
+    },
+    "summer": {
+      "date": {
+        "from": "01-06",
+        "to": "31-08"
+      },
+      "textures": [
+        {
+          "name": "midsommar_chicken",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "watermelon_chicken",
+          "weight": 1.0,
+          "enabled": true
+        }
+      ]
+    },
+    "autumn": {
+      "date": {
+        "from": "01-09",
+        "to": "30-11"
+      },
+      "textures": [
+        {
+          "name": "flannel_chicken",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "orange_chicken",
+          "weight": 1.0,
+          "enabled": true
+        }
+      ]
+    },
+    "winter": {
+      "date": {
+        "from": "01-12",
+        "to": "28-02"
+      },
+      "textures": [
+        {
+          "name": "frozen_chicken",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "snow_covered_chicken",
+          "weight": 1.0,
+          "enabled": true
+        }
+      ]
+    }
+  }
+}

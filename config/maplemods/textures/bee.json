@@ -1,0 +1,127 @@
+{
+  "_config": {
+    "replaceSeasonalTextures": true,
+    "disableSeasonsDuringHoliday": false,
+    "nameTagPreventsTextureChange": true
+  },
+  "spawn_settings": {
+    "_default": {
+      "date": {
+        "from": "01-01",
+        "to": "31-12"
+      },
+      "textures": [
+        {
+          "name": "normal_bee",
+          "weight": 1.0,
+          "enabled": true
+        }
+      ]
+    },
+    "spring": {
+      "date": {
+        "from": "01-03",
+        "to": "31-05"
+      },
+      "textures": [
+        {
+          "name": "cherry_blossom_bee",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "flower_bee",
+          "weight": 1.0,
+          "enabled": true
+        }
+      ]
+    },
+    "summer": {
+      "date": {
+        "from": "01-06",
+        "to": "31-08"
+      },
+      "textures": [
+        {
+          "name": "midsommar_bee",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "watermelon_bee",
+          "weight": 1.0,
+          "enabled": true
+        }
+      ]
+    },
+    "autumn": {
+      "date": {
+        "from": "01-09",
+        "to": "30-11"
+      },
+      "textures": [
+        {
+          "name": "flannel_bee",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "pumpkin_bee",
+          "weight": 1.0,
+          "enabled": true
+        }
+      ]
+    },
+    "winter": {
+      "date": {
+        "from": "01-12",
+        "to": "28-02"
+      },
+      "textures": [
+        {
+          "name": "frozen_bee",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "snow_covered_bee",
+          "weight": 1.0,
+          "enabled": true
+        }
+      ]
+    },
+    "christmas": {
+      "date": {
+        "from": "01-12",
+        "to": "26-12"
+      },
+      "textures": [
+        {
+          "name": "candycane_bee",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "gingerbread_bee",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "rudolph_bee",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "santa_bee",
+          "weight": 1.0,
+          "enabled": true
+        },
+        {
+          "name": "xmastree_bee",
+          "weight": 1.0,
+          "enabled": true
+        }
+      ]
+    }
+  }
+}
