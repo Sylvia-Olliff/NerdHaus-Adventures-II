@@ -114,6 +114,41 @@
           "operation": "ADD_MULTIPLIED_BASE"
         }
       ]
+    },
+    "more_rpg_classes:withers_curse": {
+      "attributes": [
+        {
+          "attribute": "spell_engine:damage_taken",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "more_rpg_classes:arcane_precision": {
+      "attributes": []
+    },
+    "more_rpg_classes:zephyrs_speed": {
+      "attributes": [
+        {
+          "attribute": "spell_power:critical_chance",
+          "value": 0.03,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.05,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
+    },
+    "more_rpg_classes:sirens_tear": {
+      "attributes": []
+    },
+    "more_rpg_classes:duelists_focus_owner": {
+      "attributes": []
+    },
+    "more_rpg_classes:duelists_focus_target": {
+      "attributes": []
     }
   }
 }

@@ -89,6 +89,66 @@
       "attack_damage": 8.1,
       "attack_speed": -2.6,
       "attributes": []
+    },
+    "aether_dagger": {
+      "attack_damage": 5.5,
+      "attack_speed": -1.6,
+      "attributes": []
+    },
+    "aether_sickle": {
+      "attack_damage": 6.8,
+      "attack_speed": -2.0,
+      "attributes": []
+    },
+    "aether_double_axe": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
+    },
+    "aether_glaive": {
+      "attack_damage": 9.3,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "aeternium_dagger": {
+      "attack_damage": 5.5,
+      "attack_speed": -1.6,
+      "attributes": []
+    },
+    "aeternium_sickle": {
+      "attack_damage": 6.8,
+      "attack_speed": -2.0,
+      "attributes": []
+    },
+    "aeternium_double_axe": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
+    },
+    "aeternium_glaive": {
+      "attack_damage": 9.3,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "ruby_dagger": {
+      "attack_damage": 5.5,
+      "attack_speed": -1.6,
+      "attributes": []
+    },
+    "ruby_sickle": {
+      "attack_damage": 6.8,
+      "attack_speed": -2.0,
+      "attributes": []
+    },
+    "ruby_double_axe": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
+    },
+    "ruby_glaive": {
+      "attack_damage": 9.3,
+      "attack_speed": -2.6,
+      "attributes": []
     }
   },
   "armor_sets": {

@@ -53,3 +53,4 @@ emi.json
 options.txt
 win_event*
 .probe
+.mixin.out/

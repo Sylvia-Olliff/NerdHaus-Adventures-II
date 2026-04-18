@@ -85,6 +85,18 @@
 	"Spawn Candy Cane Snail" = true
 	#(True by default) Enable or disable Pancake Tortoise
 	"Spawn Pancake Tortoise" = true
+	#(True by default) Enable or disable Viscacha
+	"Spawn Viscacha" = true
+	#(True by default) Enable or disable Emerald Toucanet
+	"Spawn Emerald Toucanet" = true
+	#(True by default) Enable or disable Chuckwalla
+	"Spawn Chuckwalla" = true
+	#(True by default) Enable or disable Indian Bullfrog
+	"Spawn Indian Bullfrog" = true
+	#(True by default) Enable or disable Serval
+	"Spawn Serval" = true
+	#(True by default) Enable or disable Sumatran Rhino
+	"Spawn Sumatran Rhino" = true
 
 ["Spawn Aquatic Animals"]
 	#(True by default) Enable or disable Oceanic Mantas
@@ -105,3 +117,9 @@
 	"Spawn Agazzi's Cichlids" = true
 	#(True by default) Enable or disable Fly River Turtle
 	"Spawn Fly River Turtle" = true
+	#(True by default) Enable or disable Dwarf Sperm Whale
+	"Spawn Dwarf Sperm Whale" = true
+	#(True by default) Enable or disable Peacock Bass
+	"Spawn Peacock Bass" = true
+	#(True by default) Enable or disable Clown Loach
+	"Spawn Clown Loach" = true

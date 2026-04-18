@@ -117,6 +117,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "betternether": {
+    "plant_growth": true
+  },
   "jadeaddons.lootr": {
     "info": true
   },
@@ -126,6 +129,9 @@
     "fluid": true,
     "energy": true,
     "tooltip_renderer": true
+  },
+  "betterend": {
+    "plant_growth": true
   },
   "untitledduckmod": {
     "lay_egg": true,

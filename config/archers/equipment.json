@@ -44,6 +44,41 @@
       "damage": 15.0,
       "pull_time_bonus": 0.75,
       "velocity_bonus": 0.5
+    },
+    "archers:aether_longbow": {
+      "damage": 13.5,
+      "pull_time_bonus": 0.5,
+      "velocity_bonus": 0.75
+    },
+    "archers:aether_rapid_crossbow": {
+      "damage": 10.5,
+      "pull_time_bonus": 0.0,
+      "velocity_bonus": 0.0
+    },
+    "archers:aether_heavy_crossbow": {
+      "damage": 17.0,
+      "pull_time_bonus": 0.75,
+      "velocity_bonus": 0.5
+    },
+    "archers:crystal_shortbow": {
+      "damage": 10.0,
+      "pull_time_bonus": -0.2,
+      "velocity_bonus": 0.0
+    },
+    "archers:crystal_longbow": {
+      "damage": 13.5,
+      "pull_time_bonus": 0.5,
+      "velocity_bonus": 0.75
+    },
+    "archers:ruby_rapid_crossbow": {
+      "damage": 10.5,
+      "pull_time_bonus": 0.0,
+      "velocity_bonus": 0.0
+    },
+    "archers:ruby_heavy_crossbow": {
+      "damage": 17.0,
+      "pull_time_bonus": 0.75,
+      "velocity_bonus": 0.5
     }
   },
   "melee_weapons": {
@@ -69,6 +104,21 @@
     },
     "netherite_spear": {
       "attack_damage": 7.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "aether_spear": {
+      "attack_damage": 8.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "aeternium_spear": {
+      "attack_damage": 8.0,
+      "attack_speed": -2.6,
+      "attributes": []
+    },
+    "ruby_spear": {
+      "attack_damage": 8.0,
       "attack_speed": -2.6,
       "attributes": []
     }

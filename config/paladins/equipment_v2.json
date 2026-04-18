@@ -151,6 +151,73 @@
           "operation": "ADD_VALUE"
         }
       ]
+    },
+    "aether_holy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:healing",
+          "value": 8.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "aether_claymore": {
+      "attack_damage": 13.0,
+      "attack_speed": -3.0,
+      "attributes": []
+    },
+    "aether_great_hammer": {
+      "attack_damage": 16.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "aether_mace": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
+    },
+    "aeternium_claymore": {
+      "attack_damage": 13.0,
+      "attack_speed": -3.0,
+      "attributes": []
+    },
+    "aeternium_great_hammer": {
+      "attack_damage": 16.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "aeternium_mace": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
+    },
+    "ruby_holy_staff": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "attribute": "spell_power:healing",
+          "value": 8.0,
+          "operation": "ADD_VALUE"
+        }
+      ]
+    },
+    "ruby_claymore": {
+      "attack_damage": 13.0,
+      "attack_speed": -3.0,
+      "attributes": []
+    },
+    "ruby_great_hammer": {
+      "attack_damage": 16.0,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "ruby_mace": {
+      "attack_damage": 11.0,
+      "attack_speed": -2.8,
+      "attributes": []
     }
   },
   "armor_sets": {
