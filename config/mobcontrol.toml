@@ -618,7 +618,15 @@ weight=3
 # Add your custom rules below the next line
 ################################################################################
 
+[[mob]]
+name="reanimal:penguin"
+[[mob.rule]]
+type=["all", "block"]
 
+[[mob]]
+name="luminousworld:penguin"
+[[mob.rule]]
+type=["all", "block"]
 
 
 
