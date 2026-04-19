@@ -1,0 +1,10 @@
+{
+	"values": [
+		"#minecraft:air",
+		"#minecraft:buttons",
+		"#minecraft:pressure_plates",
+		"#minecraft:wool_carpets",
+		"minecraft:moss_carpet",
+		"minecraft:redstone_wire"
+	]
+}

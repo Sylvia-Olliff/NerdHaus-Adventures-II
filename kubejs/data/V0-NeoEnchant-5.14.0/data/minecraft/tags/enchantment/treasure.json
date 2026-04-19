@@ -1,0 +1,18 @@
+{
+	"values": [
+		"enchantplus:chestplate/builder_arm",
+		"enchantplus:armor/venom_protection",
+		"enchantplus:leggings/fast_swim",
+		"enchantplus:hoe/harvest",
+		"enchantplus:elytra/kinetic_protection",
+		"enchantplus:mounted/velocity",
+		"enchantplus:mounted/ethereal_leap",
+		"enchantplus:mounted/steel_fang",
+		"enchantplus:mounted/cavalier_egis",
+		"enchantplus:helmet/voidless",
+		"enchantplus:mace/teluric_wave",
+		"enchantplus:sword/dimensional_hit",
+		"enchantplus:sword/pull"
+	],
+	"replace": false
+}

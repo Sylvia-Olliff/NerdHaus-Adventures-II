@@ -1,0 +1,11 @@
+{
+	"values": [
+		"enchantplus:sword/pull",
+		"enchantplus:sword/life_steal",
+		"enchantplus:sword/fear",
+		"enchantplus:sword/tears_of_asflors",
+		"enchantplus:sword/critical",
+		"enchantplus:sword/death_touch"
+	],
+	"replace": false
+}

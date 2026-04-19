@@ -1,0 +1,21 @@
+{
+    "description": {
+        "translate": "enchantment.enchantplus.last_hope",
+        "fallback": "Last Hope"
+    },
+    "supported_items": "#minecraft:enchantable/sword",
+    "weight": 4,
+    "max_level": 1,
+    "min_cost": {
+        "base": 8,
+        "per_level_above_first": 11
+    },
+    "max_cost": {
+        "base": 21,
+        "per_level_above_first": 9
+    },
+    "anvil_cost": 2,
+    "slots": [
+        "mainhand"
+    ]
+}

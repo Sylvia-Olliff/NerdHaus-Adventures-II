@@ -1,0 +1,12 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft:aquatic",
+		"#minecraft:arrows",
+		"#voxel:dev",
+		"#voxel:minecart",
+		"#voxel:non_living",
+		"#voxel:projectile",
+		"minecraft:player"
+	]
+}

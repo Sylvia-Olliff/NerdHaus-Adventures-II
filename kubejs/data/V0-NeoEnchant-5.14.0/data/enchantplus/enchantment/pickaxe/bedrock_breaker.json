@@ -1,0 +1,21 @@
+{
+	"description": {
+		"translate": "enchantment.enchantplus.bedrock_breaker",
+		"fallback": "Bedrock Breaker"
+	},
+	"supported_items": "#voxel:enchantable/pickaxes",
+	"weight": 2,
+	"max_level": 1,
+	"min_cost": {
+		"base": 50,
+		"per_level_above_first": 9
+	},
+	"max_cost": {
+		"base": 80,
+		"per_level_above_first": 9
+	},
+	"anvil_cost": 5,
+	"slots": [
+		"mainhand"
+	]
+}

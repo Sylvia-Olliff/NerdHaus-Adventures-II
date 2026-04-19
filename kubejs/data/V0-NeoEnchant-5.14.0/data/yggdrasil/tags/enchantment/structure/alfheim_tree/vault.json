@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"enchantplus:tools/auto_smelt",
+		"enchantplus:tools/miningplus",
+		"enchantplus:sword/reach",
+		"enchantplus:sword/xp_boost",
+		"enchantplus:chestplate/builder_arm",
+		"enchantplus:axe/timber",
+		"enchantplus:hoe/scyther",
+		"enchantplus:helmet/auto_feed",
+		"enchantplus:bow/eternal_frost",
+		"enchantplus:leggings/oversize",
+		"enchantplus:mace/striker",
+		"enchantplus:mace/wind_propulsion"
+	]
+}
