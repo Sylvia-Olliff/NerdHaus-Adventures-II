@@ -628,6 +628,11 @@ name="luminousworld:penguin"
 [[mob.rule]]
 type=["all", "block"]
 
+[[mob]]
+name="luminousworld:baby_penguin"
+[[mob.rule]]
+type=["all", "block"]
+
 
 
 ################################################################################
