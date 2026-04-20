@@ -1,0 +1,29 @@
+[Features]
+	#Can milk cows using bucket
+	Milk-Bucket = true
+	#Can milk cows using glass bottle
+	Milk-Bottle = true
+	#Can shear mushroom colony
+	Shear-Mushroom-Colony = true
+	#Can place down a feast block
+	Place-Feast = true
+	#Can serve feast using bowl
+	Bowl-Feast = true
+	#Can harvest tomato using shear
+	Shear-Tomato = true
+	#Can harvest glow berries using shear
+	Shear-Glow-Berries = true
+	#Can harvest sweet berries using shear
+	Shear-Sweet-Berries = true
+	#Can harvest cocoa using shear
+	Shear-Cocoa = true
+	#Can harvest Delightful salmonberries using shear
+	Shear-Delightful-Salmonberries = true
+	#Can harvest Cultural Delights avocados using shear
+	Shear-Cultural-Delights-Avocados = true
+	#Can harvest Collectors Reap pomegranate using shear
+	Shear-Collectors-Reap-Pomegranate = true
+	#Can harvest Collectors Reap lime using shear
+	Shear-Collectors-Reap-Lime = true
+	#Can fill the Keg from Brewin' and Chewin'
+	Fill-BnC-Keg = true
