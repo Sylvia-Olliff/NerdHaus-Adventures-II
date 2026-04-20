@@ -1702,6 +1702,22 @@
     "curseForgeHash": 2918974304,
     "modrinthHash": "40da6da25ec45c4d88447733255e4281b6f22fef"
   },
+  "integrated_api-1.7.4+1.21.1-neoforge.jar": {
+    "jarName": "integrated_api-1.7.4+1.21.1-neoforge.jar",
+    "modId": "integrated_api",
+    "name": "Integrated API",
+    "version": "1.7.4+1.21.1-neoforge",
+    "curseForgeHash": 1443521508,
+    "modrinthHash": "11e291c2c37a0b7563cf7b8bc7e70aee868e6eb4"
+  },
+  "integrated_villages-1.3.2+1.21.1-neoforge.jar": {
+    "jarName": "integrated_villages-1.3.2+1.21.1-neoforge.jar",
+    "modId": "integrated_villages",
+    "name": "Integrated Villages",
+    "version": "1.3.2+1.21.1-neoforge",
+    "curseForgeHash": 292805112,
+    "modrinthHash": "0077389fff1c943010a683d246e4b077a9636452"
+  },
   "inventoryessentials-neoforge-1.21.1-21.1.13.jar": {
     "jarName": "inventoryessentials-neoforge-1.21.1-21.1.13.jar",
     "modId": "inventoryessentials",
@@ -2027,6 +2043,14 @@
     "curseForgeHash": 316510790,
     "modrinthHash": "ba601fe630f444d974838bfd80a185a0e3e0309c"
   },
+  "lootintegrations_integrated-1.5.jar": {
+    "jarName": "lootintegrations_integrated-1.5.jar",
+    "modId": "lootintegrations_integrated",
+    "name": "lootintegrations_integrated mod",
+    "version": "1",
+    "curseForgeHash": 1572255234,
+    "modrinthHash": "12c262276385db1dc3188fbcb1aedff15550208b"
+  },
   "lootintegrations_lootintegrations_bygonepillage-1.2.jar": {
     "jarName": "lootintegrations_lootintegrations_bygonepillage-1.2.jar",
     "modId": "lootintegrations_bygonepillage",
@@ -2202,6 +2226,14 @@
     "version": "3.4.1",
     "curseForgeHash": 3799479872,
     "modrinthHash": "3dccc819f14bcc60b3683edd82ca8c5e64964229"
+  },
+  "mcw-holidays-1.1.2-mc1.21.1neoforge.jar": {
+    "jarName": "mcw-holidays-1.1.2-mc1.21.1neoforge.jar",
+    "modId": "mcwholidays",
+    "name": "Macaw\u0027s Holidays",
+    "version": "1.1.2",
+    "curseForgeHash": 2303624131,
+    "modrinthHash": "fbe2d2239fdab916120357ca3c45f582ca34f71d"
   },
   "mcw-lights-1.1.5-mc1.21.1neoforge.jar": {
     "jarName": "mcw-lights-1.1.5-mc1.21.1neoforge.jar",
@@ -2546,6 +2578,14 @@
     "version": "1.21.1-3.4.0-neoforge",
     "curseForgeHash": 1427430770,
     "modrinthHash": "e19721873bebc4dbc1674bb101af39d0ea406b95"
+  },
+  "NeoEnchant-5.14.0.jar": {
+    "jarName": "NeoEnchant-5.14.0.jar",
+    "modId": "mr_neoenchant",
+    "name": "NeoEnchant",
+    "version": "5.14.0",
+    "curseForgeHash": 1422086266,
+    "modrinthHash": "8c948f93d02705a7dd020f14a389878e0be7ef30"
   },
   "nightlights-neoforge-1.3.0.jar": {
     "jarName": "nightlights-neoforge-1.3.0.jar",
@@ -3027,6 +3067,14 @@
     "curseForgeHash": 3414849852,
     "modrinthHash": "84802fbe1645de8caf61ccb07db6cf451e614f68"
   },
+  "supplementaries-1.21-3.5.34-neoforge.jar": {
+    "jarName": "supplementaries-1.21-3.5.34-neoforge.jar",
+    "modId": "supplementaries",
+    "name": "Supplementaries",
+    "version": "1.21-3.5.34",
+    "curseForgeHash": 1920154426,
+    "modrinthHash": "9fa5889f7669d1f5f20e658f96cbf31a17c52171"
+  },
   "sussysniffers-1.21.1-0.1.3.jar": {
     "jarName": "sussysniffers-1.21.1-0.1.3.jar",
     "modId": "sussysniffers",
@@ -3409,14 +3457,6 @@
     "version": "1.21.1-NeoForge-3.1.2",
     "curseForgeHash": 725384001,
     "modrinthHash": "832f2c17425debe74a9f267f4136f1a0f0221d19"
-  },
-  "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar": {
-    "jarName": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
-    "modId": "betterfortresses",
-    "name": "YUNG\u0027s Better Nether Fortresses",
-    "version": "1.21.1-NeoForge-3.1.5",
-    "curseForgeHash": 2317908831,
-    "modrinthHash": "4061ece2141475227646649046fc14c2da505922"
   },
   "Zeta-1.1-39.jar": {
     "jarName": "Zeta-1.1-39.jar",

@@ -9,11 +9,7 @@
     "force_betterx_world_type": true
   },
   "loading": {
-<<<<<<< HEAD
     "disable_experimental_warning": false
-=======
-    "disable_experimental_warning": true
->>>>>>> a80fc0b (Getting things situated again)
   },
   "modify_version": "21.0.20"
 }
