@@ -21,6 +21,7 @@ node_modules/
 
 # Crash Logs
 crash-reports/
+config/crash_assistant/modlist.json
 
 # Excluded Configs
 config/AppliedEnergistics2/items.csv

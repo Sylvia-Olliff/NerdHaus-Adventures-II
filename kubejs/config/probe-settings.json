@@ -1,5 +1,6 @@
 {
-    "probejs.classScanning": false,
+    "probejs.classScanning": true,
     "probejs.complete": true,
-    "probejs.modHash": -3905773623439571395
+    "probejs.modHash": -2,
+    "probejs.enableDecompiler": false
 }
