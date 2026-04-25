@@ -96,6 +96,9 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
+  "apothic_enchanting": {
+    "ench": true
+  },
   "balm": {
     "jade": true
   },
@@ -147,6 +150,10 @@
   },
   "waystones": {
     "waystone": true
+  },
+  "item_descriptions": {
+    "block_descriptions": true,
+    "entity_descriptions": true
   },
   "barbequesdelight": {
     "grill": true

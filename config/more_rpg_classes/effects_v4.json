@@ -149,6 +149,20 @@
     },
     "more_rpg_classes:duelists_focus_target": {
       "attributes": []
+    },
+    "more_rpg_classes:dragonslayers_fury": {
+      "attributes": [
+        {
+          "attribute": "spell_power:critical_damage",
+          "value": 0.3,
+          "operation": "ADD_MULTIPLIED_BASE"
+        },
+        {
+          "attribute": "critical_strike:damage",
+          "value": 0.3,
+          "operation": "ADD_MULTIPLIED_BASE"
+        }
+      ]
     }
   }
 }
