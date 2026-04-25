@@ -1,4 +1,4 @@
-RecipeViewerEvents.removeEntries('item', event => {
+RecipeViewerEvents.removeEntriesCompletely('item', event => {
     event.remove('createfood:apple_slice');
     event.remove('createfood:butterscotch_apple_slice');
     event.remove('createfood:caramel_apple_slice');
