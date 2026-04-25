@@ -20,8 +20,9 @@ node_modules/
 /.github/docker/backups
 
 # Crash Logs
-crash-reports/
+/crash-reports
 config/crash_assistant/modlist.json
+/debug
 
 # Excluded Configs
 config/AppliedEnergistics2/items.csv
@@ -33,6 +34,7 @@ config/ars_nouveau/search_index/
 /data
 /dynamic-resource-pack-cache
 /dynamic-data-pack-cache
+/fancymenu_data
 /fieldguide_cache
 
 # Specific Exclusions
@@ -49,6 +51,7 @@ usernamecache.json
 /downloads
 /resourcepacks
 /datapacks
+/moonlight-global-datapacks
 minecraftinstance.json
 observable_announce
 /defaultconfigs
