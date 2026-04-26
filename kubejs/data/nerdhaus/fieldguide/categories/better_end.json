@@ -1,0 +1,15 @@
+{
+    "sort_index": 100,
+    "icon": "minecraft:item/ender_pearl",
+    "replace": false,
+    "contents": [
+        {
+            "type": "auto_populate",
+            "strategy": "mod_plants:betterend"
+        },
+        {
+            "type": "auto_populate",
+            "strategy": "mod_trees:betterend"
+        }
+    ]
+}
